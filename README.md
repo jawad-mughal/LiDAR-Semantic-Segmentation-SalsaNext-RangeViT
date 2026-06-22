@@ -1,3 +1,7 @@
+# LiDAR Semantic Segmentation using SalsaNext and RangeViT
+
+![SalsaNext Architecture](images/salsanext_architecture.png)
+
 LiDAR Semantic Segmentation using SalsaNext and RangeViT
 Overview
 
