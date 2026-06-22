@@ -17,6 +17,17 @@ Perform manual point cloud annotation
 Fine-tune pretrained networks on custom data
 Compare CNN-based and Vision Transformer-based approaches
 Analyze semantic segmentation performance for autonomous driving applications
+
+## Key Contributions
+
+- Adapted SalsaNext and RangeViT to custom Ouster LiDAR datasets
+- Converted raw LiDAR scans to SemanticKITTI format
+- Implemented transfer learning and fine-tuning workflows
+- Performed manual point cloud annotation
+- Evaluated CNN and Vision Transformer architectures
+- Investigated domain adaptation challenges for autonomous driving
+
+  
 Technologies
 Python
 PyTorch
