@@ -10,7 +10,7 @@ rosbag_to_semantickitti_converter.py
 
 Converts ROS bag recordings containing PointCloud2 messages into SemanticKITTI-compatible .bin files.
 
-Main Features
+Main Features:
 Reads ROS bag files
 Supports PointCloud2 messages
 Extracts XYZ and remission/intensity information
@@ -18,6 +18,8 @@ Filters invalid and padded points
 Generates SemanticKITTI sequence structure
 Creates timestamp files for each sequence
 Produces binary files compatible with SalsaNext and RangeViT
+
+
 Technologies
 Python
 ROS Bags
